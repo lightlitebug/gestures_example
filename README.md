@@ -8,5 +8,5 @@ A new Flutter project for Flutter Gestures.
 
 ## Getting Started
 
-- In ios/Runner/AppDelegate.swite or -ios/Runner/AppDelegate.m, change YOUR_KEY to your google API key
+- In ios/Runner/AppDelegate.swift or -ios/Runner/AppDelegate.m, change YOUR_KEY to your google API key
 - In android/src/main/AndroidManifest.xml, change YOUR_KEY to your goole API key
