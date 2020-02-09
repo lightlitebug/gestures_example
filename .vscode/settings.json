@@ -1,0 +1,25 @@
+{
+  "workbench.colorCustomizations": {
+    "[Community Material Theme Darker High Contrast]": {
+      "editor.background": "#0F111A",
+      "sideBar.background": "#0F111A",
+      "terminal.background": "#0F111A",
+      "editorLineNumber.foreground": "#a1bcd8",
+      "editor.foreground": "#8abdf3"
+    },
+    "[Remedy - Tilted]": {
+      "editor.background": "#272626",
+      "sideBar.background": "#272626",
+      "terminal.background": "#272626",
+      "terminal.ansiBlack": "#010c16",
+      "terminal.ansiBrightBlack": "#011627"
+    },
+    "[Community Material Theme Palenight High Contrast]": {
+      "editorLineNumber.foreground": "#a1bcd8",
+      "editor.foreground": "#8abdf3"
+    },
+    "activityBar.background": "#012084",
+    "titleBar.activeBackground": "#012DB8",
+    "titleBar.activeForeground": "#FAFBFF"
+  }
+}
